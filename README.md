@@ -1,5 +1,5 @@
-# Menjar
-> Menjar is a seamless food delivery web application.
+# FooRestaurant
+> FooRestaurant is a seamless food delivery web application.
 This app will help users place orders or book reservations for local dishes. It will allow users to have access to dishes from other cultures and denominations.
 
 
@@ -9,8 +9,7 @@ This app will help users place orders or book reservations for local dishes. It 
 * [Technologies](#technologies)
 * [Features](#features)
 * [Status](#status)
-* [Inspiration](#inspiration)
-* [Authors](#authors)
+
 
 ## General info
 We are solving the problem of people having access to local dishes from different cultures. This app will help users place orders or book reservations for local dishes. It will allow users to have access to dishes from other cultures and denominations.
@@ -21,7 +20,7 @@ It would help people have access to a platform where they can order local meals 
 
 People from various cultures use the site, as do tourists visiting a new location and trying to sample local cuisine.
 
-It is dependent on a specific locale. We built the app for the sole purpose of ordering local Nigerian foods.
+It is dependent on a specific locale. We built the app for the sole purpose of ordering local people foods.
 
 
 ## Screenshots
@@ -57,16 +56,4 @@ To-do list:
 * Include a seperate contact page.
 * Include a seperate menu page
 * Include a seperate Gallery page
-
-## Status
-Project is: _in progress_
-
-## Inspiration
-Lagos has been a rich multicultural State in the nation of Nigeria, housing several people with different cultures, several of whom become homesick due to lack of familiarity or indigenous meals around them, we intend to solve this problem by making their local dishes readily available to them.
-
-## Authors
-* Adebesin Ayobami
-* Daniel Obembe
-* Oyedele Bolaji.
-
 
